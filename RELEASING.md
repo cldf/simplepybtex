@@ -42,7 +42,6 @@ git push --tags
 - Increment version number and append `.dev0` to the version number for the new development cycle:
   - `src/simplepybtex/__init__.py`
   - `setup.cfg`
-  - `docs/conf.py`
 
 - Commit/push the version change:
 ```shell

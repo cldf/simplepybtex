@@ -15,7 +15,6 @@ pytest tests src
 - Update the version number, by removing the trailing `.dev0` in:
   - `setup.cfg`
   - `src/simplepybtex/__init__.py`
-  - `docs/conf.py`
 
 - Create the release commit:
 ```shell
